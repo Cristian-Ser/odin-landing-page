@@ -177,5 +177,17 @@ nav a {
     height: 30px;
     border-radius: 5px;
     color: #f9faf8;
+}
 
+/* footer */
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    height: 50px;
+
+}
+footer p {
+    color: #e5e7eb;
 }
